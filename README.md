@@ -1,4 +1,4 @@
-![MasterHead]("https://C:\Users\Purus\OneDrive\Pictures\Camera Roll\UI and UX Designer Gradient Creative Grey and Yellow LinkedIn Banner.gif")
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
