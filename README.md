@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Laughing" width="400" src="https://cdn.dribbble.com/users/729829/screenshots/2712522/galshir.gif">
+<img align="right" alt="Laughing" width="400" src="https://i.gifer.com/LMLe.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laughing0004&label=Profile%20views&color=0e75b6&style=flat" alt="laughing0004" /> </p>
 
