@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead]("https://C:\Users\Purus\OneDrive\Pictures\Camera Roll\UI and UX Designer Gradient Creative Grey and Yellow LinkedIn Banner.gif")
 <h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
