@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Laughing" width="400" src="https://i.gifer.com/LMLe.gif">
+<img align="right" alt="Laughing" width="400" src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltafad890a49017f7e/650f01fa67eca167f3f01b1d/NemoRun_SlowInSlowOut.gif/?width=700&auto=webp&quality=80&disable=upscale">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laughing0004&label=Profile%20views&color=0e75b6&style=flat" alt="laughing0004" /> </p>
 
