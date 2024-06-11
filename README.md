@@ -12,7 +12,6 @@
 
 - 📫 Reach me **purushottamkumar395@gmail.com**
 
-- ⚡ Quotes **Give up trying to make me give up**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
