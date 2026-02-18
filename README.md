@@ -1,16 +1,16 @@
 ![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 <h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="Laughing" width="400" src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltafad890a49017f7e/650f01fa67eca167f3f01b1d/NemoRun_SlowInSlowOut.gif/?width=700&auto=webp&quality=80&disable=upscale">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laughing0004&label=Profile%20views&color=0e75b6&style=flat" alt="laughing0004" /> </p>
 
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **AI/ML**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/purushottam0004](https://linktr.ee/purushottam0004)
 
-- 📫 Reach me **purushottamkumar395@gmail.com**
+- 📫 Reach me **[Linkedin](https://www.linkedin.com/in/purushottam0004)**
 
 
 <h3 align="left">Connect with me:</h3>
