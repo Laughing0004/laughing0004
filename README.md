@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
+![MasterHead](https://pikaso.cdnpk.net/private/production/3351583408/upload.png?token=exp=1771632000~hmac=b57a0158a1d32edc3c6590c98fad9445e499acd8833507cedb17e99f3944ac67)
 <h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
