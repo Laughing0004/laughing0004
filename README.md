@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/Laughing0004/laughing0004/main/data.jpg" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Laughing0004/laughing0004/main/data.jpg" width="100%" style="max-height:300px; object-fit:cover;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
 <h3 align="center">Data Analyst | AI/ML Enthusiast | Turning Data into Insights 📊</h3>
