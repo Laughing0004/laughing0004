@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/Laughing0004/laughing0004/blob/main/data.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Laughing0004/laughing0004/main/data.jpg" height="300" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
 <h3 align="center">Data Analyst | AI/ML Enthusiast | Turning Data into Insights 📊</h3>
