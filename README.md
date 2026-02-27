@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
 <h3 align="center">Data Analyst | AI/ML Enthusiast | Turning Data into Insights 📊</h3>
 
-<img align="right" alt="Data Analytics" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZ3aWJpNnVvZzV6b2I4YzV3M2J0b3FqczF1c3J6a3R6aGx5eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
+<img align="right" alt="Laughing" width="400" src="https://eu-images.contentstack.com/v3/assets/blt740a130ae3c5d529/bltafad890a49017f7e/650f01fa67eca167f3f01b1d/NemoRun_SlowInSlowOut.gif/?width=700&auto=webp&quality=80&disable=upscale">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=laughing0004&label=Profile%20views&color=0e75b6&style=flat" alt="laughing0004" />
