@@ -23,7 +23,7 @@
 
 ### 🚀 My Portfolio & Projects
 
-- 👨‍💻 Projects: https://linktr.ee/purushottam0004  
+- 👨‍💻 Portfolio: https://laughing0004.github.io/My-Portfolio/  
 - 📈 Power BI & Data Projects available in repositories  
 - 🧠 AI Content Generator (Next.js + LLM based SaaS project)
 
@@ -34,9 +34,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/purushottam0004" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="purushottam0004" height="30" width="40" />
-</a>
-<a href="https://instagram.com/pstm04" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pstm04" height="30" width="40" />
 </a>
 <a href="https://www.leetcode.com/purushottam0004" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="purushottam0004" height="30" width="40" />
