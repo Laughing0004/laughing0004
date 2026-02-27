@@ -1,4 +1,4 @@
-![MasterHead](https://pikaso.cdnpk.net/private/production/3351583408/upload.png?token=exp=1771632000~hmac=b57a0158a1d32edc3c6590c98fad9445e499acd8833507cedb17e99f3944ac67)
+![MasterHead](https://www.freepik.com/free-photos-vectors/data-analyst-banner)
 
 <h1 align="center">Hi 👋, I'm Purushottam Kumar</h1>
 <h3 align="center">Data Analyst | AI/ML Enthusiast | Turning Data into Insights 📊</h3>
@@ -67,14 +67,6 @@
 ---
 
 ### 📈 GitHub Stats
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laughing0004&show_icons=true&locale=en&layout=compact" alt="laughing0004" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laughing0004&show_icons=true&locale=en" alt="laughing0004" />
-</p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=laughing0004&" alt="laughing0004" />
